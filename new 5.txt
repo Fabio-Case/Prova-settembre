@@ -1,0 +1,13 @@
+Casetta Fabio		5°AI		01/10/2020
+
+			verfica di tecnologica
+
+1)
+	- uso un thread per ogni professore + il main
+	- ogni tread legge la map dai dati condivisi e cerca la classe che è stata richiesta
+	- nei dati condivisi contiene 
+		_ l'orario generale di ogni prof 
+		_ vettore con l'orario della classe 
+		_ map con tutto l'orario splittato
+		_ 
+		
